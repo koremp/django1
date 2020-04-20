@@ -136,3 +136,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# pyc
+mysite/mysite/__pycache__
+mysite/books/__pycache__
+
+# db
+mysite/mysite/db.sqlite3
