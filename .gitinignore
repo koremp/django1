@@ -142,4 +142,4 @@ mysite/mysite/__pycache__
 mysite/books/__pycache__
 
 # db
-mysite/mysite/db.sqlite3
+mysite/db.sqlite3
