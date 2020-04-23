@@ -1,1 +1,3 @@
-# django1
+# django project in book
+
+
